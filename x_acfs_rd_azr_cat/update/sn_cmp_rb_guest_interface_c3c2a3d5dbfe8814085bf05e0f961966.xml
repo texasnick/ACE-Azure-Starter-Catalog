@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_rb_guest_interface">
+    <sn_cmp_rb_guest_interface action="INSERT_OR_UPDATE">
+        <guestinterface display_value="Azure Microsoft Windows Server 2016 Base Resource Interface">03c2a3d5dbfe8814085bf05e0f96195f</guestinterface>
+        <resource display_value="Azure Microsoft Windows Server 2016 Base Blueprint Resource">cfc2a3d5dbfe8814085bf05e0f961960</resource>
+        <sys_class_name>sn_cmp_rb_guest_interface</sys_class_name>
+        <sys_created_by>tom.blevins</sys_created_by>
+        <sys_created_on>2020-02-05 17:34:25</sys_created_on>
+        <sys_id>c3c2a3d5dbfe8814085bf05e0f961966</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cfc2a3d5dbfe8814085bf05e0f961960</sys_name>
+        <sys_package display_value="ACE-Azure Starter Catalog" source="x_acfs_rd_azr_cat">95c72cc6db128450f9cc5890cf9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ACE-Azure Starter Catalog">95c72cc6db128450f9cc5890cf9619d6</sys_scope>
+        <sys_update_name>sn_cmp_rb_guest_interface_c3c2a3d5dbfe8814085bf05e0f961966</sys_update_name>
+        <sys_updated_by>tom.blevins</sys_updated_by>
+        <sys_updated_on>2020-02-05 17:34:25</sys_updated_on>
+    </sn_cmp_rb_guest_interface>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_bp_global_prop">
+    <sn_cmp_bp_global_prop action="INSERT_OR_UPDATE">
+        <bp_stage_operation display_value="Provision">6c58ab51db32c814085bf05e0f9619e1</bp_stage_operation>
+        <bp_stage_res_op_attr display_value="VmSize">8158eb51db32c814085bf05e0f96194f</bp_stage_res_op_attr>
+        <mandatory>true</mandatory>
+        <name>Azure_Ubuntu_Server_16_LTS_VmSize</name>
+        <order>28</order>
+        <resource_op_unique_id>9545</resource_op_unique_id>
+        <sys_class_name>sn_cmp_bp_global_prop</sys_class_name>
+        <sys_created_by>tom.blevins</sys_created_by>
+        <sys_created_on>2020-02-05 17:58:35</sys_created_on>
+        <sys_id>8d58eb51db32c814085bf05e0f96194f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Azure_Ubuntu_Server_16_LTS_VmSize</sys_name>
+        <sys_package display_value="ACE-Azure Starter Catalog" source="x_acfs_rd_azr_cat">95c72cc6db128450f9cc5890cf9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ACE-Azure Starter Catalog">95c72cc6db128450f9cc5890cf9619d6</sys_scope>
+        <sys_update_name>sn_cmp_bp_global_prop_8d58eb51db32c814085bf05e0f96194f</sys_update_name>
+        <sys_updated_by>tom.blevins</sys_updated_by>
+        <sys_updated_on>2020-02-05 17:58:35</sys_updated_on>
+    </sn_cmp_bp_global_prop>
+</record_update>

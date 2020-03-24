@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_rb_op_impl_step">
+    <sn_cmp_rb_op_impl_step action="INSERT_OR_UPDATE">
+        <capi_interface/>
+        <capi_method/>
+        <capi_version/>
+        <condition/>
+        <depends_on/>
+        <enabled>true</enabled>
+        <flow_type/>
+        <force_async>false</force_async>
+        <interface/>
+        <interface_operation/>
+        <name>CmpBusinessScheduleUtil.modifyLease</name>
+        <operationimpl display_value="ModifyLease">04847719db72c814085bf05e0f961956</operationimpl>
+        <order>20</order>
+        <owner_type>5</owner_type>
+        <parent_step/>
+        <parentstep/>
+        <product_type/>
+        <provider/>
+        <provider_ref/>
+        <provider_type/>
+        <resource_interface/>
+        <sys_class_name>sn_cmp_rb_op_impl_step</sys_class_name>
+        <sys_created_by>tom.blevins</sys_created_by>
+        <sys_created_on>2020-02-05 18:52:09</sys_created_on>
+        <sys_id>fd943f19db72c814085bf05e0f961917</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CmpBusinessScheduleUtil.modifyLease</sys_name>
+        <sys_package display_value="ACE-Azure Starter Catalog" source="x_acfs_rd_azr_cat">95c72cc6db128450f9cc5890cf9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ACE-Azure Starter Catalog">95c72cc6db128450f9cc5890cf9619d6</sys_scope>
+        <sys_update_name>sn_cmp_rb_op_impl_step_fd943f19db72c814085bf05e0f961917</sys_update_name>
+        <sys_updated_by>tom.blevins</sys_updated_by>
+        <sys_updated_on>2020-02-05 18:52:09</sys_updated_on>
+        <target_entity_flow/>
+    </sn_cmp_rb_op_impl_step>
+</record_update>

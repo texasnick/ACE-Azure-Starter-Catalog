@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_bp_rule">
+    <sn_cmp_bp_rule action="INSERT_OR_UPDATE">
+        <cat_item display_value="Azure Ubuntu Server">b726eb5ddbfe8814085bf05e0f961997</cat_item>
+        <cat_variable display_value="CloudAccount">2f58af51db32c814085bf05e0f961923</cat_variable>
+        <description>TriggerChangeEvent Location</description>
+        <name>TriggerChangeEvent Location</name>
+        <order>80</order>
+        <status>1</status>
+        <sys_class_name>sn_cmp_bp_rule</sys_class_name>
+        <sys_created_by>tom.blevins</sys_created_by>
+        <sys_created_on>2020-02-05 17:58:50</sys_created_on>
+        <sys_id>3468ef51db32c814085bf05e0f961989</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TriggerChangeEvent Location</sys_name>
+        <sys_package display_value="ACE-Azure Starter Catalog" source="x_acfs_rd_azr_cat">95c72cc6db128450f9cc5890cf9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ACE-Azure Starter Catalog">95c72cc6db128450f9cc5890cf9619d6</sys_scope>
+        <sys_update_name>sn_cmp_bp_rule_3468ef51db32c814085bf05e0f961989</sys_update_name>
+        <sys_updated_by>tom.blevins</sys_updated_by>
+        <sys_updated_on>2020-02-05 17:58:50</sys_updated_on>
+    </sn_cmp_bp_rule>
+</record_update>

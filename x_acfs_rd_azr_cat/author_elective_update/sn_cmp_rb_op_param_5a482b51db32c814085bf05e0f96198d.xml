@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_rb_op_param">
+    <sn_cmp_rb_op_param action="DELETE">
+        <interface display_value="Azure Ubuntu Server 16 LTS Interface">6848ebdddbfe8814085bf05e0f961935</interface>
+        <name>resourceId</name>
+        <operation display_value="Start">d2482b51db32c814085bf05e0f961981</operation>
+        <order>30</order>
+        <sys_class_name>sn_cmp_rb_op_param</sys_class_name>
+        <sys_created_by>tom.blevins</sys_created_by>
+        <sys_created_on>2020-02-05 17:58:24</sys_created_on>
+        <sys_id>5a482b51db32c814085bf05e0f96198d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>resourceId</sys_name>
+        <sys_package display_value="ACP4G-RD-Azure Starter Catalog" source="x_acfs_rd_azr_cat">95c72cc6db128450f9cc5890cf9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ACP4G-RD-Azure Starter Catalog">95c72cc6db128450f9cc5890cf9619d6</sys_scope>
+        <sys_update_name>sn_cmp_rb_op_param_5a482b51db32c814085bf05e0f96198d</sys_update_name>
+        <sys_updated_by>tom.blevins</sys_updated_by>
+        <sys_updated_on>2020-02-05 17:58:24</sys_updated_on>
+        <type>1</type>
+    </sn_cmp_rb_op_param>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ACE-Azure Starter Catalog">95c72cc6db128450f9cc5890cf9619d6</application>
+        <file_path/>
+        <instance_id>6a752aa1dba37344b847ac44d49619db</instance_id>
+        <instance_name>afspolyclouddev</instance_name>
+        <name>sn_cmp_rb_op_param_5a482b51db32c814085bf05e0f96198d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_rb_op_param"><sn_cmp_rb_op_param action="INSERT_OR_UPDATE"><interface display_value="Azure Ubuntu Server 16 LTS Interface">6848ebdddbfe8814085bf05e0f961935</interface><name>resourceId</name><operation display_value="Start">d2482b51db32c814085bf05e0f961981</operation><order>30</order><sys_class_name>sn_cmp_rb_op_param</sys_class_name><sys_created_by>tom.blevins</sys_created_by><sys_created_on>2020-02-05 17:58:24</sys_created_on><sys_id>5a482b51db32c814085bf05e0f96198d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>resourceId</sys_name><sys_package display_value="ACP4G-RD-Azure Starter Catalog" source="x_acfs_rd_azr_cat">95c72cc6db128450f9cc5890cf9619d6</sys_package><sys_policy/><sys_scope display_value="ACP4G-RD-Azure Starter Catalog">95c72cc6db128450f9cc5890cf9619d6</sys_scope><sys_update_name>sn_cmp_rb_op_param_5a482b51db32c814085bf05e0f96198d</sys_update_name><sys_updated_by>tom.blevins</sys_updated_by><sys_updated_on>2020-02-05 17:58:24</sys_updated_on><type>1</type></sn_cmp_rb_op_param></record_update>]]></payload>
+        <payload_hash>1951749458</payload_hash>
+        <record_name>resourceId</record_name>
+        <reverted_from/>
+        <source>91c72cc6db128450f9cc5890cf9619d9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>tom.blevins</sys_created_by>
+        <sys_created_on>2020-02-05 17:58:24</sys_created_on>
+        <sys_id>62482b51db32c814085bf05e0f961992</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1701680cc310000001</sys_recorded_at>
+        <sys_updated_by>tom.blevins</sys_updated_by>
+        <sys_updated_on>2020-02-05 17:58:24</sys_updated_on>
+        <type>OperationParameter</type>
+        <update_guid>5a482b517632c81452a22b35c0e99391</update_guid>
+        <update_guid_history>5a482b517632c81452a22b35c0e99391:1951749458</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">6e482b51db32c814085bf05e0f9619ab</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>tom.blevins</sys_created_by>
+        <sys_created_on>2020-02-05 17:58:25</sys_created_on>
+        <sys_db_object display_value="" name="sn_cmp_rb_op_param">sn_cmp_rb_op_param</sys_db_object>
+        <sys_id>9a63bd0d2b184ba0b41f7010323b2c10</sys_id>
+        <sys_metadata>5a482b51db32c814085bf05e0f96198d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>resourceId</sys_name>
+        <sys_package display_value="ACE-Azure Starter Catalog" source="x_acfs_rd_azr_cat">95c72cc6db128450f9cc5890cf9619d6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ACE-Azure Starter Catalog">95c72cc6db128450f9cc5890cf9619d6</sys_scope>
+        <sys_scope_delete display_value="">1d1e4059b3554de786b524abfd3afb01</sys_scope_delete>
+        <sys_update_name>sn_cmp_rb_op_param_5a482b51db32c814085bf05e0f96198d</sys_update_name>
+        <sys_update_version display_value="sn_cmp_rb_op_param_5a482b51db32c814085bf05e0f96198d">62482b51db32c814085bf05e0f961992</sys_update_version>
+        <sys_updated_by>tom.blevins</sys_updated_by>
+        <sys_updated_on>2020-02-05 17:58:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

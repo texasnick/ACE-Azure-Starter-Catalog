@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Azure VM from User Image">822437d5db72c814085bf05e0f9619aa</sc_cat_item>
+        <sc_catalog display_value="Cloud Service Catalog">b029d6da0b212200eff7ef9bb4673a42</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>tom.blevins</sys_created_by>
+        <sys_created_on>2020-02-05 18:50:41</sys_created_on>
+        <sys_id>dc44f7d5db72c814085bf05e0f9619a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cloud Service Catalog.Azure VM from User Image</sys_name>
+        <sys_package display_value="ACE-Azure Starter Catalog" source="x_acfs_rd_azr_cat">95c72cc6db128450f9cc5890cf9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ACE-Azure Starter Catalog">95c72cc6db128450f9cc5890cf9619d6</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_dc44f7d5db72c814085bf05e0f9619a9</sys_update_name>
+        <sys_updated_by>tom.blevins</sys_updated_by>
+        <sys_updated_on>2020-02-05 18:50:41</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

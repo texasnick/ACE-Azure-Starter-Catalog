@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="INSERT_OR_UPDATE">
+        <order>0</order>
+        <sc_cat_item display_value="Start">1a947f19db72c814085bf05e0f961961</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>tom.blevins</sys_created_by>
+        <sys_created_on>2020-02-05 18:52:12</sys_created_on>
+        <sys_id>22947f19db72c814085bf05e0f9619a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>General Info.Start</sys_name>
+        <sys_package display_value="ACE-Azure Starter Catalog" source="x_acfs_rd_azr_cat">95c72cc6db128450f9cc5890cf9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ACE-Azure Starter Catalog">95c72cc6db128450f9cc5890cf9619d6</sys_scope>
+        <sys_update_name>io_set_item_22947f19db72c814085bf05e0f9619a7</sys_update_name>
+        <sys_updated_by>tom.blevins</sys_updated_by>
+        <sys_updated_on>2020-02-05 18:52:12</sys_updated_on>
+        <variable_set display_value="General Info">e6947f19db72c814085bf05e0f9619a6</variable_set>
+    </io_set_item>
+</record_update>

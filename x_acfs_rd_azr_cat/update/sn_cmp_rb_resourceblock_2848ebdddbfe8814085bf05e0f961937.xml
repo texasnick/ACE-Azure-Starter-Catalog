@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_cmp_rb_resourceblock">
+    <sn_cmp_rb_resourceblock action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <guestinterface display_value="Azure Ubuntu Server 16 LTS Interface">6848ebdddbfe8814085bf05e0f961935</guestinterface>
+        <hostinterface display_value="Stack Orchestration Interface">64271337d722220097eb6ccf6e6103f5</hostinterface>
+        <is_system_defined>false</is_system_defined>
+        <is_tlr>false</is_tlr>
+        <layer>3</layer>
+        <name>Azure Ubuntu Server 16 LTS</name>
+        <refcitype>cmdb_ci_azure_deployment</refcitype>
+        <resource_template/>
+        <status>1</status>
+        <sys_class_name>sn_cmp_rb_resourceblock</sys_class_name>
+        <sys_created_by>tom.blevins</sys_created_by>
+        <sys_created_on>2020-02-05 17:58:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2848ebdddbfe8814085bf05e0f961937</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Azure Ubuntu Server 16 LTS</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ACE-Azure Starter Catalog" source="x_acfs_rd_azr_cat">95c72cc6db128450f9cc5890cf9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ACE-Azure Starter Catalog">95c72cc6db128450f9cc5890cf9619d6</sys_scope>
+        <sys_update_name>sn_cmp_rb_resourceblock_2848ebdddbfe8814085bf05e0f961937</sys_update_name>
+        <sys_updated_by>tom.blevins</sys_updated_by>
+        <sys_updated_on>2020-02-05 17:58:17</sys_updated_on>
+        <type display_value="ARM Template">612f41e49f00320048111f80a57fcf82</type>
+    </sn_cmp_rb_resourceblock>
+</record_update>

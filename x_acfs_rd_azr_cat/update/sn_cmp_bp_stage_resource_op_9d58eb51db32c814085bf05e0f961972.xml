@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_bp_stage_resource_op">
+    <sn_cmp_bp_stage_resource_op action="INSERT_OR_UPDATE">
+        <alias_name>Blueprint Container Resource.Provision</alias_name>
+        <bp_stage_operation display_value="Provision">6c58ab51db32c814085bf05e0f9619e1</bp_stage_operation>
+        <bp_stage_resource display_value="Blueprint Container Resource">3c58ab51db32c814085bf05e0f9619f3</bp_stage_resource>
+        <condition_text/>
+        <operation_order>200</operation_order>
+        <parent_id/>
+        <rb_operation_impl display_value="Provision">36486b51db32c814085bf05e0f96190c</rb_operation_impl>
+        <resource_block display_value="Azure Ubuntu Server 16 LTS Blueprint Resource">32486b51db32c814085bf05e0f961901</resource_block>
+        <sys_class_name>sn_cmp_bp_stage_resource_op</sys_class_name>
+        <sys_created_by>tom.blevins</sys_created_by>
+        <sys_created_on>2020-02-05 17:58:35</sys_created_on>
+        <sys_id>9d58eb51db32c814085bf05e0f961972</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Blueprint Container Resource.Provision</sys_name>
+        <sys_package display_value="ACE-Azure Starter Catalog" source="x_acfs_rd_azr_cat">95c72cc6db128450f9cc5890cf9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ACE-Azure Starter Catalog">95c72cc6db128450f9cc5890cf9619d6</sys_scope>
+        <sys_update_name>sn_cmp_bp_stage_resource_op_9d58eb51db32c814085bf05e0f961972</sys_update_name>
+        <sys_updated_by>tom.blevins</sys_updated_by>
+        <sys_updated_on>2020-02-05 17:58:35</sys_updated_on>
+        <type/>
+        <unique_id>9492</unique_id>
+    </sn_cmp_bp_stage_resource_op>
+</record_update>

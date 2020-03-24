@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_bp_stage_resource_op">
+    <sn_cmp_bp_stage_resource_op action="INSERT_OR_UPDATE">
+        <alias_name>Azure Microsoft Windows Server 2016 Base.Deprovision</alias_name>
+        <bp_stage_operation display_value="Deprovision">f4d267d5dbfe8814085bf05e0f96196a</bp_stage_operation>
+        <bp_stage_resource display_value="Azure Microsoft Windows Server 2016 Base">05d267d5dbfe8814085bf05e0f9619b8</bp_stage_resource>
+        <condition_text/>
+        <operation_order>200</operation_order>
+        <parent_id/>
+        <rb_operation_impl display_value="Deprovision">41c2ef95dbfe8814085bf05e0f9619ef</rb_operation_impl>
+        <resource_block display_value="Azure Microsoft Windows Server 2016 Base">89c22f95dbfe8814085bf05e0f961961</resource_block>
+        <sys_class_name>sn_cmp_bp_stage_resource_op</sys_class_name>
+        <sys_created_by>tom.blevins</sys_created_by>
+        <sys_created_on>2020-02-05 17:34:38</sys_created_on>
+        <sys_id>52d2e7d5dbfe8814085bf05e0f961989</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Azure Microsoft Windows Server 2016 Base.Deprovision</sys_name>
+        <sys_package display_value="ACE-Azure Starter Catalog" source="x_acfs_rd_azr_cat">95c72cc6db128450f9cc5890cf9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ACE-Azure Starter Catalog">95c72cc6db128450f9cc5890cf9619d6</sys_scope>
+        <sys_update_name>sn_cmp_bp_stage_resource_op_52d2e7d5dbfe8814085bf05e0f961989</sys_update_name>
+        <sys_updated_by>tom.blevins</sys_updated_by>
+        <sys_updated_on>2020-02-05 17:34:38</sys_updated_on>
+        <type/>
+        <unique_id>1059</unique_id>
+    </sn_cmp_bp_stage_resource_op>
+</record_update>

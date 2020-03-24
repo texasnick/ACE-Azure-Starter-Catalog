@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_bp_stage_res_op_attr">
+    <sn_cmp_bp_stage_res_op_attr action="INSERT_OR_UPDATE">
+        <default_value>${parameter.Application}</default_value>
+        <name>Application</name>
+        <rb_operation_attribute display_value="Application">6bc2a3d5dbfe8814085bf05e0f9619e2</rb_operation_attribute>
+        <stage_resource_operation display_value="Blueprint Container Resource.Provision">15d2a7d5dbfe8814085bf05e0f961926</stage_resource_operation>
+        <sys_class_name>sn_cmp_bp_stage_res_op_attr</sys_class_name>
+        <sys_created_by>tom.blevins</sys_created_by>
+        <sys_created_on>2020-02-05 17:34:35</sys_created_on>
+        <sys_id>a9d2a7d5dbfe8814085bf05e0f961954</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Application</sys_name>
+        <sys_package display_value="ACE-Azure Starter Catalog" source="x_acfs_rd_azr_cat">95c72cc6db128450f9cc5890cf9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ACE-Azure Starter Catalog">95c72cc6db128450f9cc5890cf9619d6</sys_scope>
+        <sys_update_name>sn_cmp_bp_stage_res_op_attr_a9d2a7d5dbfe8814085bf05e0f961954</sys_update_name>
+        <sys_updated_by>tom.blevins</sys_updated_by>
+        <sys_updated_on>2020-02-05 17:34:35</sys_updated_on>
+        <type_of_map>1</type_of_map>
+        <use_in_operation>true</use_in_operation>
+    </sn_cmp_bp_stage_res_op_attr>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_rb_keyvalue_mapping">
+    <sn_cmp_rb_keyvalue_mapping action="INSERT_OR_UPDATE">
+        <keyvalue display_value="templateParameters">a948a751db32c814085bf05e0f9619d3</keyvalue>
+        <parameter>ubuntuOSVersion</parameter>
+        <parameter_source>1</parameter_source>
+        <sys_class_name>sn_cmp_rb_keyvalue_mapping</sys_class_name>
+        <sys_created_by>tom.blevins</sys_created_by>
+        <sys_created_on>2020-02-05 17:58:21</sys_created_on>
+        <sys_id>ed48e751db32c814085bf05e0f961924</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ACE-Azure Starter Catalog" source="x_acfs_rd_azr_cat">95c72cc6db128450f9cc5890cf9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ACE-Azure Starter Catalog">95c72cc6db128450f9cc5890cf9619d6</sys_scope>
+        <sys_update_name>sn_cmp_rb_keyvalue_mapping_ed48e751db32c814085bf05e0f961924</sys_update_name>
+        <sys_updated_by>tom.blevins</sys_updated_by>
+        <sys_updated_on>2020-02-05 17:58:21</sys_updated_on>
+    </sn_cmp_rb_keyvalue_mapping>
+</record_update>

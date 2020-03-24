@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Azure Microsoft Windows with Visual Studio 2019">5335a3d9dbfe8814085bf05e0f96199e</sc_cat_item>
+        <sc_category display_value="Compute">8641fe260b212200eff7ef9bb4673a3d</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>tom.blevins</sys_created_by>
+        <sys_created_on>2020-02-05 17:46:10</sys_created_on>
+        <sys_id>8775a71ddbfe8814085bf05e0f961908</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Compute.Azure Microsoft Windows with Visual Studio 2019</sys_name>
+        <sys_package display_value="ACP4G-RD-Azure Starter Catalog" source="x_acfs_rd_azr_cat">95c72cc6db128450f9cc5890cf9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ACP4G-RD-Azure Starter Catalog">95c72cc6db128450f9cc5890cf9619d6</sys_scope>
+        <sys_update_name>sc_cat_item_category_8775a71ddbfe8814085bf05e0f961908</sys_update_name>
+        <sys_updated_by>tom.blevins</sys_updated_by>
+        <sys_updated_on>2020-02-05 17:46:10</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ACE-Azure Starter Catalog">95c72cc6db128450f9cc5890cf9619d6</application>
+        <file_path/>
+        <instance_id>6a752aa1dba37344b847ac44d49619db</instance_id>
+        <instance_name>afspolyclouddev</instance_name>
+        <name>sc_cat_item_category_8775a71ddbfe8814085bf05e0f961908</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Azure Microsoft Windows with Visual Studio 2019">5335a3d9dbfe8814085bf05e0f96199e</sc_cat_item><sc_category display_value="Compute">8641fe260b212200eff7ef9bb4673a3d</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>tom.blevins</sys_created_by><sys_created_on>2020-02-05 17:46:10</sys_created_on><sys_id>8775a71ddbfe8814085bf05e0f961908</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Compute.Azure Microsoft Windows with Visual Studio 2019</sys_name><sys_package display_value="ACP4G-RD-Azure Starter Catalog" source="x_acfs_rd_azr_cat">95c72cc6db128450f9cc5890cf9619d6</sys_package><sys_policy/><sys_scope display_value="ACP4G-RD-Azure Starter Catalog">95c72cc6db128450f9cc5890cf9619d6</sys_scope><sys_update_name>sc_cat_item_category_8775a71ddbfe8814085bf05e0f961908</sys_update_name><sys_updated_by>tom.blevins</sys_updated_by><sys_updated_on>2020-02-05 17:46:10</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1814515228</payload_hash>
+        <record_name>Compute.Azure Microsoft Windows with Visual Studio 2019</record_name>
+        <reverted_from/>
+        <source>91c72cc6db128450f9cc5890cf9619d9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>tom.blevins</sys_created_by>
+        <sys_created_on>2020-02-05 17:46:10</sys_created_on>
+        <sys_id>0375a71ddbfe8814085bf05e0f96190b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170167597c70000001</sys_recorded_at>
+        <sys_updated_by>tom.blevins</sys_updated_by>
+        <sys_updated_on>2020-02-05 17:46:10</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>0b75a71d95fe881407cbb379f82e580a</update_guid>
+        <update_guid_history>0b75a71d95fe881407cbb379f82e580a:-1814515228</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">87166b5ddbfe8814085bf05e0f961907</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>tom.blevins</sys_created_by>
+        <sys_created_on>2020-02-05 17:48:53</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>1bb6ba35c64144d5b54f97d44e28efa9</sys_id>
+        <sys_metadata>8775a71ddbfe8814085bf05e0f961908</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Compute.Azure Microsoft Windows with Visual Studio 2019</sys_name>
+        <sys_package display_value="ACE-Azure Starter Catalog" source="x_acfs_rd_azr_cat">95c72cc6db128450f9cc5890cf9619d6</sys_package>
+        <sys_parent display_value="">5335a3d9dbfe8814085bf05e0f96199e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ACE-Azure Starter Catalog">95c72cc6db128450f9cc5890cf9619d6</sys_scope>
+        <sys_scope_delete display_value="">1d1e4059b3554de786b524abfd3afb01</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_8775a71ddbfe8814085bf05e0f961908</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_8775a71ddbfe8814085bf05e0f961908">0375a71ddbfe8814085bf05e0f96190b</sys_update_version>
+        <sys_updated_by>tom.blevins</sys_updated_by>
+        <sys_updated_on>2020-02-05 17:48:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

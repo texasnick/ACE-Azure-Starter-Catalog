@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_cmp_bp_stage_resource">
+    <sn_cmp_bp_stage_resource action="INSERT_OR_UPDATE">
+        <alias_name>Azure Datacenter</alias_name>
+        <bp_stage_model display_value="">e458ab51db32c814085bf05e0f9619de</bp_stage_model>
+        <constraint/>
+        <host_ci/>
+        <resource_block display_value="Azure Datacenter">ddf5cd6bd722220097eb6ccf6e610346</resource_block>
+        <sys_class_name>sn_cmp_bp_stage_resource</sys_class_name>
+        <sys_created_by>tom.blevins</sys_created_by>
+        <sys_created_on>2020-02-05 17:58:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3458eb51db32c814085bf05e0f96190a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Azure Datacenter</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ACE-Azure Starter Catalog" source="x_acfs_rd_azr_cat">95c72cc6db128450f9cc5890cf9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ACE-Azure Starter Catalog">95c72cc6db128450f9cc5890cf9619d6</sys_scope>
+        <sys_update_name>sn_cmp_bp_stage_resource_3458eb51db32c814085bf05e0f96190a</sys_update_name>
+        <sys_updated_by>tom.blevins</sys_updated_by>
+        <sys_updated_on>2020-02-05 17:58:34</sys_updated_on>
+        <type>1</type>
+    </sn_cmp_bp_stage_resource>
+</record_update>

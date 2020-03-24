@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_rb_op_impl">
+    <sn_cmp_rb_op_impl action="INSERT_OR_UPDATE">
+        <interface display_value="Azure VM from User Image Interface">8074bfd5db72c814085bf05e0f9619b9</interface>
+        <operation display_value="PreProvision">7174b319db72c814085bf05e0f96192a</operation>
+        <operation_output_attributes/>
+        <resource display_value="Azure VM from User Image">cc74ffd5db72c814085bf05e0f961943</resource>
+        <sys_class_name>sn_cmp_rb_op_impl</sys_class_name>
+        <sys_created_by>tom.blevins</sys_created_by>
+        <sys_created_on>2020-02-05 18:51:36</sys_created_on>
+        <sys_id>3974b319db72c814085bf05e0f96192b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>7174b319db72c814085bf05e0f96192a</sys_name>
+        <sys_package display_value="ACE-Azure Starter Catalog" source="x_acfs_rd_azr_cat">95c72cc6db128450f9cc5890cf9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ACE-Azure Starter Catalog">95c72cc6db128450f9cc5890cf9619d6</sys_scope>
+        <sys_update_name>sn_cmp_rb_op_impl_3974b319db72c814085bf05e0f96192b</sys_update_name>
+        <sys_updated_by>tom.blevins</sys_updated_by>
+        <sys_updated_on>2020-02-05 18:51:36</sys_updated_on>
+    </sn_cmp_rb_op_impl>
+</record_update>

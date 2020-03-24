@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_cmp_bp_stage_model">
+    <sn_cmp_bp_stage_model action="INSERT_OR_UPDATE">
+        <blueprint display_value="Azure VM from User Image">5274f319db72c814085bf05e0f961910</blueprint>
+        <blueprint_template/>
+        <intent>ServiceNowCloudTemplate:
+  name: Azure VM from User Image
+  layer: Application
+  status: Draft
+  category: Compute
+  deploymentModel:
+    resources:
+    - resource: Azure VM from User Image
+      resourceblock: ServiceNow::Azure VM from User Image
+      host: Azure Datacenter
+    - resource: Azure Datacenter
+      resourceblock: ServiceNow::Azure Datacenter</intent>
+        <stage display_value="Default">a74383b20b2222003ad5c73ef6673a1d</stage>
+        <sys_class_name>sn_cmp_bp_stage_model</sys_class_name>
+        <sys_created_by>tom.blevins</sys_created_by>
+        <sys_created_on>2020-02-05 18:51:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>10847719db72c814085bf05e0f961986</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ACE-Azure Starter Catalog" source="x_acfs_rd_azr_cat">95c72cc6db128450f9cc5890cf9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ACE-Azure Starter Catalog">95c72cc6db128450f9cc5890cf9619d6</sys_scope>
+        <sys_update_name>sn_cmp_bp_stage_model_10847719db72c814085bf05e0f961986</sys_update_name>
+        <sys_updated_by>tom.blevins</sys_updated_by>
+        <sys_updated_on>2020-02-05 18:51:47</sys_updated_on>
+    </sn_cmp_bp_stage_model>
+</record_update>

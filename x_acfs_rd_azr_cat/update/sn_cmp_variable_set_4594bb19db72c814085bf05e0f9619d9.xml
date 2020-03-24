@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_variable_set">
+    <sn_cmp_variable_set action="INSERT_OR_UPDATE">
+        <bp_cat_item display_value="Deprovision">fc94bb19db72c814085bf05e0f9619b8</bp_cat_item>
+        <create_roles/>
+        <description/>
+        <display_title>true</display_title>
+        <internal_name>general_info</internal_name>
+        <layout>2down</layout>
+        <name>General Info</name>
+        <order>0</order>
+        <read_roles/>
+        <set_attributes/>
+        <sys_class_name>sn_cmp_variable_set</sys_class_name>
+        <sys_created_by>tom.blevins</sys_created_by>
+        <sys_created_on>2020-02-05 18:52:06</sys_created_on>
+        <sys_id>4594bb19db72c814085bf05e0f9619d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>General Info</sys_name>
+        <sys_package display_value="ACE-Azure Starter Catalog" source="x_acfs_rd_azr_cat">95c72cc6db128450f9cc5890cf9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ACE-Azure Starter Catalog">95c72cc6db128450f9cc5890cf9619d6</sys_scope>
+        <sys_update_name>sn_cmp_variable_set_4594bb19db72c814085bf05e0f9619d9</sys_update_name>
+        <sys_updated_by>tom.blevins</sys_updated_by>
+        <sys_updated_on>2020-02-05 18:52:06</sys_updated_on>
+        <title>General Info</title>
+        <type>one_to_one</type>
+        <write_roles/>
+    </sn_cmp_variable_set>
+</record_update>
